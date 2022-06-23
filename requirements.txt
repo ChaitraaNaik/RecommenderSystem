@@ -1,0 +1,22 @@
+streamlit==1.10.0
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.2
+spyder @ file:///C:/ci/spyder_1636481183311/work
+spyder-kernels @ file:///C:/ci/spyder-kernels_1634237040526/work
+sklearn==0.0
+scikit-learn==1.1.1
+scipy==1.8.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.2.4
+regex @ file:///C:/ci/regex_1648447923622/work
+
+
+
+
+
+
+
+
